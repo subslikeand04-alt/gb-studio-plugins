@@ -11,5 +11,5 @@
     "screenshots/advanced_menu_layout.png"
   ],
   "version": "1.0.0",
-  "gbsVersion": ">=4.2.0"
+  "gbsVersion": ">=4.4.2"
 }
