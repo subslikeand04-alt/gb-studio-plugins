@@ -1,0 +1,1 @@
+echo "/gb-studio-plugins/plugins/subslikeand04_alt" >> $GITHUB_PATH
